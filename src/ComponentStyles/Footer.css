@@ -1,0 +1,9 @@
+footer {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#2c70dd+1,f92f9b+71,f9a927+100&1+0,0.89+98 */
+background: -moz-linear-gradient(-45deg,  rgba(44,112,221,1) 0%, rgba(44,112,221,1) 1%, rgba(249,47,155,0.92) 71%, rgba(249,161,47,0.89) 98%, rgba(249,169,39,0.89) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgba(44,112,221,1) 0%,rgba(44,112,221,1) 1%,rgba(249,47,155,0.92) 71%,rgba(249,161,47,0.89) 98%,rgba(249,169,39,0.89) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgba(44,112,221,1) 0%,rgba(44,112,221,1) 1%,rgba(249,47,155,0.92) 71%,rgba(249,161,47,0.89) 98%,rgba(249,169,39,0.89) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c70dd', endColorstr='#e3f9a927',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
